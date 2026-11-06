@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+
+# Downloaded assets
+opencv_bootcamp_assets_NB1.zip
+
+# Generated image
+hello.png
+
+/images/*.jpg
+/images/*.png
+/images/*.zip
